@@ -57,10 +57,6 @@ Sistema para organizar livros lidos, livros em leitura e títulos que o usuário
 
 Landing page institucional responsiva criada para apresentar o restaurante, seus pratos, sua história, galeria, informações de contato e localização.
 
-### 📅 Sistema de Reservas
-
-Sistema web para gerenciamento de reservas de mesas, permitindo consultar datas, horários, ambientes e disponibilidade do estabelecimento.
-
 ---
 
 ## 📊 Estatísticas do GitHub
