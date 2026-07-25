@@ -2,9 +2,7 @@
 
 # Olá! Eu sou Evelyn Vareiro 👋
 
-### Desenvolvedora Web em formação
-
-Transformando ideias em interfaces bonitas, responsivas e funcionais.
+### Desenvolvedora Web
 
 </div>
 
